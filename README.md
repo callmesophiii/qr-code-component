@@ -16,7 +16,7 @@
 This project features a responsive QR Code card using HTML and CSS, intended to help developers practice layout, typography and component styling.
 
 ### Screenshot
-![QR Code](./qr-code.png)
+![QR Code](/qr-code.png)
 
 ## My process
 For this challenge, I began by carefully reviewing the project brief to understand the layout and requirements. I then set up the project structure, creating separate files for HTML, CSS, and assets like the QR code image. Using semantic HTML, I built a clean layout and styled it with a mobile-first approach in CSS, utilizing flexbox for centering and Google Fonts for typography. I focused on consistent spacing, rounded corners, and a simple card design. Once styled, I tested responsiveness across different screen sizes to ensure a good user experience. Finally, I added the required attribution, double-checked the layout, and polished the design to match the original as closely as possible.
